@@ -1,4 +1,4 @@
-![CW](https://www.codewars.com/users/JlASID/badges/micro)
+![CW](https://www.codewars.com/users/JlASID/badges/small)
 
 Data Science student at HSE (DSBA '29) who spends most of his free time building systems.
 I also teach data analysis and algorithms at the HSE Lyceum.
